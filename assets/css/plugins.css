@@ -198,7 +198,6 @@
 .rs-caption-1:after,
 .rs-caption-1:before {
   font-size: 16px;
-  content: "\f005";
   position: absolute;
   font-family: FontAwesome;
 }
